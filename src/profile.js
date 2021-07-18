@@ -9,7 +9,7 @@ const animation = {
 };
 // Change your display name on tha landing display
 const header = {
-  name: "a Human",
+  name: "Ishan Avasthi",
 };
 const background = {
   // Options: Snow or Particle
@@ -20,7 +20,7 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. ",
+    "Hello there!👋, I am Ishan Avasthi born in 2005 in India. I am an upcoming developer, I am learning something new everyday. I love developing tools/sites/apps that solve real problems or help make someone's life easier. I like impactful work. Besides coding, I'm also very passionate about traveling and reading. I feel like the world is a book that was given to me for exploring when I was born, and I don't wanna die before reading all the pages. I plan to become a nomad someday and explore the endless beauty that this planet homes.",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
@@ -76,42 +76,42 @@ const projects = [
     id: "project1",
     name: "Project 1",
     skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/IshanAvasthi",
   },
   {
     // Add image in './styles/images.css' in #project2
     id: "project2",
     name: "Project 2",
     skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/IAvasthi",
   },
   {
     // Add image in './styles/images.css' in #project3
     id: "project3",
     name: "Project 3",
     skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/Ishan-EXE",
   },
   {
     // Add image in './styles/images.css' in #project4
     id: "project4",
     name: "Project 4",
     skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/Avasthi-GIT",
   },
   {
     // Add image in './styles/images.css' in #project5
     id: "project5",
     name: "Project 5",
     skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    url: "https://gitlab.com/IshanAvasthi",
   },
   {
     // Add image in './styles/images.css' in #project6
     id: "project6",
     name: "Project 6",
     skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com",
   },
 ];
 // Edit your Miscellaneous Activities, its name and the url.
@@ -123,38 +123,38 @@ const miscellaneous = [
     // Add image in './styles/images.css' in #misc1
     id: "misc1",
     name: "Miscellaneous 1",
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/",
   },
   {
     // Add image in './styles/images.css' in #misc2
     id: "misc2",
     name: "Miscellaneous 2",
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/",
   },
   {
     // Add image in './styles/images.css' in #misc3
     id: "misc3",
     name: "Miscellaneous 3",
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/",
   },
 ];
 // Contact form text, and Formspree link(to send a submit contact through their API as in contact.js)
 // To get your own jotform link, go to https://formspree.io/
 // If you hacve the link already, paste it in the contactUrl below
-const section5Title = "Get in Touch";
+const section5Title = "Get in Touch!";
 const contact = {
   pitch:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae.",
-  copyright: "Kaustubh Mishra",
-  contactUrl: "",
+    "I am very friendly. You can contact me from here, alternatively you can shoot a message on @IshanAvasthi on Telegram.",
+  copyright: "Ishan Avasthi",
+  contactUrl: "https://formspree.io/f/xknkvqob",
 };
 // Paste your respective social media links. You can omit any if you dont have it
 // Upload your resume in your drive, get the shaareable link and paste it in the resume section
 const social = {
-  github: "https://github.com",
+  github: "https://github.com/IshanAvasthi",
   facebook: "https://facebook.com",
   linkedin: "https://linkedin.com",
-  instagram: "https://instagram.com",
+  instagram: "https://instagram.com/heyavasthi",
   resume: "https://novoresume.com/",
 };
 // Dont change anything here
